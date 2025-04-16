@@ -32,7 +32,7 @@ a {
         font-size: small;
     }
     .bottom {
-        bottom: 10%;
+        bottom: 0;
     }
     .socials {
         position: absolute;
